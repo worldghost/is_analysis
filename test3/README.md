@@ -189,4 +189,4 @@ package "library" #DDDDDD {
 	}
 @enduml
 ````
-![读者对象](https://github.com/GuoYaoWen123/is_analysis/blob/master/test3/读者对象.png)
+![读者对象](https://github.com/worldghost/is_analysis/blob/master/test3/%E8%AF%BB%E8%80%85%E5%AF%B9%E8%B1%A1.png)
