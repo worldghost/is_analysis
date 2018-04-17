@@ -175,7 +175,7 @@ package "library" #DDDDDD {
 
 @enduml
 ````
-![系统类](https://github.com/GuoYaoWen123/is_analysis/blob/master/test3/系统类.png)
+![系统类](https://github.com/worldghost/is_analysis/blob/master/test3/%E7%B3%BB%E7%BB%9F%E7%B1%BB.png)
 
 ##### 
 
