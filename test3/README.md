@@ -123,7 +123,7 @@ object reader {
 @enduml
 ````
 
-![系统对象](https://github.com/GuoYaoWen123/is_analysis/blob/master/test3/系统对象.png)
+![系统对象](https://github.com/worldghost/is_analysis/blob/master/test3/%E7%B3%BB%E7%BB%9F%E5%AF%B9%E8%B1%A1.png)
 
 ##### 记录如下
 
