@@ -38,7 +38,7 @@ object order {
 
 @endumll
 ````
-![图书对象](https://github.com/GuoYaoWen123/is_analysis/blob/master/test3/图书对象.png)
+![图书对象](https://github.com/worldghost/is_analysis/blob/master/test3/%E5%9B%BE%E4%B9%A6%E5%AF%B9%E8%B1%A1.png)
 
 
 ##### 流程三：游客对象
