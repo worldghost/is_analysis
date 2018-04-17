@@ -184,8 +184,8 @@ package "library" #DDDDDD {
 ````
 @startuml
 	object reader {
-	 	username = "cxz"
-		password = "123"
+	 	username = "gn"
+		password = "果倪"
 	}
 @enduml
 ````
