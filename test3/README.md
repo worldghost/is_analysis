@@ -60,8 +60,8 @@ object order {
 @startuml
 
 object libraryManager {
-		 username = "mr"
-		 password = "guoyaowen"
+		 username = "ng"
+		 password = "niguo"
 }
 
 
